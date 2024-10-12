@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SUu7414.github.io/sitemap.xml
+Sitemap: https://SUu-7414.github.io/sitemap.xml
